@@ -21,7 +21,7 @@ repository               : "wpqmanu/wpqmanu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile_panqu.JPG"
   name             : "TEST3"
   pronouns         : # example: "she/her"  
   bio              : "TEST4"
@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "wang-pan-qu"
+  zhihu            : "https://www.zhihu.com/people/wang-pan-qu"
 
 
 # Site Settings
