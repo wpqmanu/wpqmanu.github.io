@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "TEST1's Homepage"
+title                    : "Panqu Wang's Homepage"
 title_separator          : "-"
-name                     : &name "TEST2"
+name                     : &name "Panqu Wang"
 description              : &description "personal description"
 url                      : https://wpqmanu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "wpqmanu/wpqmanu.github.io"
 author:
   # Biographic information
   avatar           : "profile_panqu.JPG"
-  name             : "TEST3"
+  name             : "Panqu Wang 王泮渠"
   pronouns         : # example: "she/her"  
-  bio              : "TEST4"
+  bio              : "Making Scalable L4 Autonomous Driving Possible."
   location         : "Shanghai, China"
   employer         : "ZERON 零一汽车"
   uri              : # URL
