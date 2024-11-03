@@ -20,9 +20,9 @@ We are hiring highly motivated interns to perform research and development in En
 
 [高级算法工程师-端到端自动驾驶/多模态大模型](https://zeron.jobs.feishu.cn/social/position/7376467460025108774/detail)
 
-[自动驾驶算法实习生-深度学习/强化学习](https://zeron.jobs.feishu.cn/social/position/7306799482062145804/detail)
+[自动驾驶算法实习生-端到端大模型](https://zeron.jobs.feishu.cn/social/position/7405805151439391039/detail)
 
-[自动驾驶研发实习生-仿真平台及算法](https://zeron.jobs.feishu.cn/social/position/7306802004785072403/detail)
+[自动驾驶研发实习生-3DGS/AIGC](https://zeron.jobs.feishu.cn/social/position/7405805420860705078/detail)
 
 
 Experience
